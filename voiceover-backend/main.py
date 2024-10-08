@@ -156,7 +156,7 @@ def generate_voiceover_script(base64_frames_with_timestamps, language="English",
 
             Focus on explaining what's happening on the screen and in the video.
             Assume you are demo'ing the software to an audience so use second person language e.g "you can do this..."
-            Pay attention to the button texts, labels etc and mention it in your naration so users can follow you. 
+            Pay attention to the button texts, labels etc and mention it in your narration so users can follow you. 
             Make sure you narrate what is on the screen and everything is in sync with frame timestamps.
             Guide user through what's happening on the screen accurately following the mouse cursor. Make narration based on the text on the screen covering buttons, text areas and what user is typing. 
 
